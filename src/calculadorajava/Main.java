@@ -8,7 +8,7 @@ import view.CalculadoraView;
 
 /**
  *
- * @author Flávio
+ * @author GabrielNatPr0
  */
 public class Main {
 
